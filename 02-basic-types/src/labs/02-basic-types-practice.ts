@@ -1,7 +1,7 @@
 // [문제 2] 다양한 기본 타입 선언 연습
 // (1) 아래 변수에 적절한 값을 대입하고, 그 타입이 무엇인지 주석으로 써보세요.
 
-// let height = ;        // 예) 175
+// let height = 175;        // 예) 175
 // let message = ;       // 예) "Hello, world!"
 // let passed = ;        // 예) true
 // let zero = ;          // 예) 0
